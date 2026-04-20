@@ -1,0 +1,909 @@
+<div class="row gy-5">
+            <div class="col-xl-6">
+                <div class="tw-mb-10">
+                    <span class="fw-normal tw-text-405 text-main-600 tw-mb-5" data-aos="fade-up" data-aos-duration="600" data-aos-delay="100">Why Choose Us</span>
+                    <h2 class="fw-bold text-neutral-950 tw-mb-5 h4" data-aos="fade-up" data-aos-duration="600" data-aos-delay="150">Every Child Deserves a Support System</h2>
+                    <p class="fw-normal tw-text-4 text-paragraph-500" data-aos="fade-up" data-aos-duration="600" data-aos-delay="200">At Mind Wave, we believe in inclusive growth. Our team of specialists works tirelessly to provide the best intervention for slow learners and children with special needs.</p>
+                </div>
+                <div class="row gy-4">
+                    <div class="col-sm-6" data-aos="fade-up" data-aos-duration="600" data-aos-delay="300">
+                        <div class="choose-us-musk-bg-img1 tw-py-11 tw-px-8 text-center tw-rounded-all animation-item tw-rounded-all">
+                            <img src="assets/images/icon/choose-us-icon1.png" alt="icon" class="tw-mb-5 animate__bounce d-block mx-auto">
+                            <span class="fw-medium tw-text-405 text-white tw-mb-5">Our Course Completed</span>
+                            <h2 class="fw-normal text-white h1">865+</h2>
+                        </div>
+                    </div>
+                    <div class="col-sm-6" data-aos="fade-up" data-aos-duration="600" data-aos-delay="400">
+                        <div class="choose-us-musk-bg-img2 tw-py-11 tw-px-8 text-center tw-rounded-all animation-item tw-rounded-all">
+                            <img src="assets/images/icon/choose-us-icon2.png" alt="icon" class="tw-mb-5 animate__bounce d-block mx-auto">
+                            <span class="fw-medium tw-text-405 text-white tw-mb-5">Years of Experience</span>
+                            <h2 class="fw-normal text-white h1">55+</h2>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xl-6">
+                <div>
+                    <div class="row gy-5">
+                        <div class="col-sm-6" data-aos="fade-up" data-aos-duration="600" data-aos-delay="100">
+                        <div class="bg-main-50 tw-py-11 tw-px-8 tw-rounded-all animation-item tw-rounded-all">
+                            <img src="assets/images/icon/choose-us-icon3.png" alt="icon" class="tw-mb-5 animate__bounce d-block">
+                            <span class="fw-medium tw-text-405 text-neutral-950 tw-mb-5">Years of Experience</span>
+                            <p class="fw-normal text-paragraph-500">Safety is above all else. We pay special attention to this. Special room plan.</p>
+                        </div>
+                        </div>
+                        <div class="col-sm-6" data-aos="fade-up" data-aos-duration="600" data-aos-delay="200">
+                            <div class="bg-primary-100 tw-py-11 tw-px-8 tw-rounded-all animation-item tw-rounded-all">
+                                <img src="assets/images/icon/choose-us-icon4.png" alt="icon" class="tw-mb-5 animate__bounce d-block">
+                                <span class="fw-medium tw-text-405 text-neutral-950 tw-mb-5">Safety and Security</span>
+                                <p class="fw-normal text-paragraph-500">Safety is above all else. We pay special attention to this. Special room plan.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <span class="d-flex align-items-center justify-content-center" data-aos="zoom-in" data-aos-duration="1500">
+                        <img src="assets/images/thumbs/choose-us-img1.png" alt="img" class="tw-mt-5">
+                    </span>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- ========================== why choose us section end ========================== -->
+
+    <!-- ============================ about us section start ============================ -->
+<section style="background-image: url(assets/images/bg/about-us-bg-img-1.png);" class="bg-img">
+    <div class="pb-120 tw-pt-396-px">
+        <div class="container">
+            <div class="d-flex align-items-end tw-gap-5 flex-wrap">
+                <div class="">
+                    <h2 class="fw-bold text-white tw-mb-10 h4" data-aos="fade-up" data-aos-duration="600" data-aos-delay="100">Expert Pathologists for<br> Communication Success</h2>
+                    <div class="d-flex align-items-center tw-gap-4 flex-wrap" data-aos="fade-up" data-aos-duration="600" data-aos-delay="300">
+                        <a href="about.html" class="btn btn-main-two hover-style-two button--stroke active-scale-094 tw-duration-100 d-inline-flex align-items-center justify-content-center tw-gap-5 group active--translate-y-2 tw-rounded-2xl tw-text-4" data-block="button">
+                            <span class="button__flair"></span>
+                            <span class="button__label">Explore More</span>
+                            <span class="text-white tw-text-2xl group-hover-text-white tw-duration-500 position-relative">
+                                <img src="assets/images/icon/banner-icon-white.png" alt="icon">
+                            </span>
+                        </a>
+                        <div>
+                            <div class="d-flex align-items-center tw-gap-3">
+                                <!-- <img src="assets/images/icon/about-us-icon1.png" alt="icon"> -->
+                                <div>
+                                    <!-- <span class="fw-normal tw-text-4 text-white tw-mb-1">Call Now</span>
+                                    <h2 class="h5">
+                                        <a href="tel:+29494999773" class="fw-bold text-main-two-600">
+                                            +29 494 999 773
+                                        </a>
+                                    </h2> -->
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="rotate-text-wrapper" data-aos="zoom-in" data-aos-duration="600" data-aos-delay="300">
+                    <a href="about.html" class="position-relative pointer-events-auto tw-p-4">
+                        <img src="assets/images/shape/totate-text.png" alt="Rotate Text" class="animation-rotate-right">
+                        <span class="position-absolute top-0 tw-start-0 top-50 translate-middle tw-start-50">
+                            <span class="bg-white tw-w-100-px tw-h-100-px rounded-circle d-flex align-items-center justify-content-center">
+                                <img src="assets/images/logo/mindwave_logo.png" alt="img">
+                            </span>
+                        </span>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<div class="container"> 
+    <div class="tw-mt-6 position-relative">
+        <img src="assets/images/shape/about-us-shape-1.png" alt="shape" class="position-absolute bottom-0 tw-end-0 d-xl-block d-none">
+        <div class="d-flex align-items-center tw-gap-15 flex-wrap">
+            <div class="d-flex align-items-center tw-gap-3" data-aos="fade-up" data-aos-duration="600" data-aos-delay="100">
+                <span>
+                    <img src="assets/images/icon/about-us-icon2.png" alt="icon">
+                </span>
+                <span class="fw-bold tw-text-405 text-neutral-950">Play to Learn</span>
+            </div>
+            <div class="d-flex align-items-center tw-gap-3" data-aos="fade-up" data-aos-duration="600" data-aos-delay="200">
+                <span>
+                    <img src="assets/images/icon/about-us-icon2.png" alt="icon">
+                </span>
+                <span class="fw-bold tw-text-405 text-neutral-950">Funny Games</span>
+            </div>
+            <div class="d-flex align-items-center tw-gap-3" data-aos="fade-up" data-aos-duration="600" data-aos-delay="300">
+                <span>
+                    <img src="assets/images/icon/about-us-icon2.png" alt="icon">
+                </span>
+                <span class="fw-bold tw-text-405 text-neutral-950">Professional Teachers</span>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- ============================ about us section end ============================ -->
+
+    <!-- ========================== our team section start ========================== -->
+<!-- <section class="py-110 position-relative">
+    <img src="assets/images/shape/our-team-shape1.png" alt="shape" class="position-absolute bottom-0 tw-end-0 tw-me-130-px tw-mb-110-px d-lg-block d-none z-n1 animation-upDown">
+    <img src="assets/images/shape/our-team-shape2.png" alt="shape" class="position-absolute top-0 tw-start-0 d-lg-block d-none tw-mt-186-px tw-ms-200-px animation-upDown">
+    <div class="container">
+        <div class="text-center tw-mb-12">
+            <span class="fw-normal tw-text-405 text-main-600 tw-mb-6" data-aos="fade-up" data-aos-duration="600" data-aos-delay="100">Our Teachers</span>
+            <h2 class="fw-bold text-neutral-950 h4" data-aos="fade-up" data-aos-duration="600" data-aos-delay="200">Meet With Our Experienced <br> Kids Teachers</h2>
+        </div>
+        <div class="row gy-4">
+            <div class="col-lg-4 col-md-6 " data-aos="fade-up" data-aos-duration="600" data-aos-delay="100">
+                <div class="our-teacher-thumb tw-transform-roted-5">
+                    <div class="position-relative bg-img">
+                        <a href="teacher-details.html" class="bg-img">
+                            <img src="assets/images/thumbs/our-team-img1.png" alt="img" class="bg-img">
+                        </a>
+                        <div class="our-teacher-link ">
+                            <ul class="d-flex align-items-center tw-gap-2 position-absolute tw-start-0 bottom-0 tw-mb-9 translate-middle-x tw-start-50">
+                                <li>
+                                    <a href="https://www.facebook.com/" class="tw-w-11 tw-h-11 bg-white border-neutral-900 border tw-rounded-lg text-black tw-text-5 d-flex align-items-center justify-content-center hover-bg-main-600 hover-text-white tw-duration-300">
+                                        <i class="ph-bold ph-facebook-logo"></i>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="https://x.com/i/flow/login" class="tw-w-11 tw-h-11 bg-white border-neutral-900 border tw-rounded-lg text-black tw-text-5 d-flex align-items-center justify-content-center hover-bg-main-600 hover-text-white tw-duration-300">
+                                        <i class="ph-fill ph-twitter-logo"></i>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="https://www.linkedin.com/login" class="tw-w-11 tw-h-11 bg-white border-neutral-900 border tw-rounded-lg text-black tw-text-5 d-flex align-items-center justify-content-center hover-bg-main-600 hover-text-white tw-duration-300">
+                                        <i class="ph-bold ph-linkedin-logo"></i>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="https://www.youtube.com" class="tw-w-11 tw-h-11 bg-white border-neutral-900 border tw-rounded-lg text-black tw-text-5 d-flex align-items-center justify-content-center hover-bg-main-600 hover-text-white tw-duration-300">
+                                        <i class="ph-fill ph-youtube-logo"></i>
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="text-center tw-mt-6">
+                        <h2 class="h5">
+                            <a href="teacher-details.html" class="fw-bold text-neutral-950 tw-mb-2">
+                                David William
+                            </a>
+                        </h2>
+                        <span class="fw-normal tw-text-405 text-neutral-600">Online Teacher</span>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 " data-aos="fade-up" data-aos-duration="600" data-aos-delay="200">
+                <div class="our-teacher-thumb tw-transform-roted--5">
+                    <div class="position-relative bg-img">
+                        <a href="teacher-details.html" class="bg-img">
+                            <img src="assets/images/thumbs/our-team-img2.png" alt="img" class="bg-img">
+                        </a>
+                        <div class="our-teacher-link ">
+                            <ul class="d-flex align-items-center tw-gap-2 position-absolute tw-start-0 bottom-0 tw-mb-9 translate-middle-x tw-start-50">
+                                <li>
+                                    <a href="https://www.facebook.com/" class="tw-w-11 tw-h-11 bg-white border-neutral-900 border tw-rounded-lg text-black tw-text-5 d-flex align-items-center justify-content-center hover-bg-main-600 hover-text-white tw-duration-300">
+                                        <i class="ph-bold ph-facebook-logo"></i>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="https://x.com/i/flow/login" class="tw-w-11 tw-h-11 bg-white border-neutral-900 border tw-rounded-lg text-black tw-text-5 d-flex align-items-center justify-content-center hover-bg-main-600 hover-text-white tw-duration-300">
+                                        <i class="ph-fill ph-twitter-logo"></i>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="https://www.linkedin.com/login" class="tw-w-11 tw-h-11 bg-white border-neutral-900 border tw-rounded-lg text-black tw-text-5 d-flex align-items-center justify-content-center hover-bg-main-600 hover-text-white tw-duration-300">
+                                        <i class="ph-bold ph-linkedin-logo"></i>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="https://www.youtube.com" class="tw-w-11 tw-h-11 bg-white border-neutral-900 border tw-rounded-lg text-black tw-text-5 d-flex align-items-center justify-content-center hover-bg-main-600 hover-text-white tw-duration-300">
+                                        <i class="ph-fill ph-youtube-logo"></i>
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="text-center tw-mt-6">
+                        <h2 class="h5">
+                            <a href="teacher-details.html" class="fw-bold text-neutral-950 tw-mb-2">
+                               John William
+                            </a>
+                        </h2>
+                        <span class="fw-normal tw-text-405 text-neutral-600">Online Teacher</span>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 " data-aos="fade-up" data-aos-duration="600" data-aos-delay="300">
+                <div class="our-teacher-thumb tw-transform-roted-5">
+                    <div class="position-relative bg-img">
+                        <a href="teacher-details.html" class="bg-img">
+                            <img src="assets/images/thumbs/our-team-img3.png" alt="img" class="bg-img">
+                        </a>
+                        <div class="our-teacher-link ">
+                            <ul class="d-flex align-items-center tw-gap-2 position-absolute tw-start-0 bottom-0 tw-mb-9 translate-middle-x tw-start-50">
+                                <li>
+                                    <a href="https://www.facebook.com/" class="tw-w-11 tw-h-11 bg-white border-neutral-900 border tw-rounded-lg text-black tw-text-5 d-flex align-items-center justify-content-center hover-bg-main-600 hover-text-white tw-duration-300">
+                                        <i class="ph-bold ph-facebook-logo"></i>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="https://x.com/i/flow/login" class="tw-w-11 tw-h-11 bg-white border-neutral-900 border tw-rounded-lg text-black tw-text-5 d-flex align-items-center justify-content-center hover-bg-main-600 hover-text-white tw-duration-300">
+                                        <i class="ph-fill ph-twitter-logo"></i>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="https://www.linkedin.com/login" class="tw-w-11 tw-h-11 bg-white border-neutral-900 border tw-rounded-lg text-black tw-text-5 d-flex align-items-center justify-content-center hover-bg-main-600 hover-text-white tw-duration-300">
+                                        <i class="ph-bold ph-linkedin-logo"></i>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="https://www.youtube.com" class="tw-w-11 tw-h-11 bg-white border-neutral-900 border tw-rounded-lg text-black tw-text-5 d-flex align-items-center justify-content-center hover-bg-main-600 hover-text-white tw-duration-300">
+                                        <i class="ph-fill ph-youtube-logo"></i>
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="text-center tw-mt-6">
+                        <h2 class="h5">
+                            <a href="teacher-details.html" class="fw-bold text-neutral-950 tw-mb-2">
+                               Samiul Jonson
+                            </a>
+                        </h2>
+                        <span class="fw-normal tw-text-405 text-neutral-600">Online Teacher</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section> -->
+<!-- ========================== our team section end ========================== -->
+    <!-- ========================== our pricing section start ========================== -->
+<section class="bg-pink-100 position-relative py-110" id="summer-camp">
+    <img src="assets/images/shape/our-program-shape1.png" alt="shape" class="position-absolute top-0 tw-start-0 w-100">
+    <img src="assets/images/shape/our-pricing-shape2.png" alt="shape" class="position-absolute top-0 tw-end-0 top-50 animation-upDown d-lg-block d-none">
+    <img src="assets/images/shape/our-pricing-shape1.png" alt="shape" class="position-absolute bottom-0 tw-start-0 tw-mb-134-px tw-ms-110-px d-lg-block d-none animation-rotate">
+    <div class="mt-120 position-relative tw-mb-250-px">
+        <img src="assets/images/shape/our-program-shaep1.png" alt="shape" class="position-absolute top-0 tw-start-0 tw-ms-200-px d-lg-block d-none tw-mt-80-px animation-scalation">
+        <div class="container">
+            <div class="text-center tw-mb-16">
+                <span class="fw-normal tw-text-405 text-main-600 tw-mb-6" data-aos="fade-up" data-aos-duration="600" data-aos-delay="100">Summer Camp</span>
+                <h2 class="fw-bold text-neutral-950 h4" data-aos="fade-up" data-aos-duration="600" data-aos-delay="200">Register for Our Exciting<br> Summer Camp Program</h2>
+            </div>
+
+            <div class="our-pricing-card tw-py-8 tw-px-10 bg-white tw-rounded-3xl d-flex align-items-center tw-gap-4 justify-content-between flex-wrap tw-mb-5 group-item" data-aos="fade-up" data-aos-duration="600" data-aos-delay="200">
+                <div class="d-flex align-items-center tw-gap-3">
+                    <img src="assets/images/icon/our-pricing-icon1.png" alt="icon" class="group-hover-item-text-invert-black">
+                    <span class="our-pircing-text fw-bold tw-text-405 text-neutral-950">Summer Camp Registration</span>
+                </div>
+                <p class="our-pircing-text max-w-260-px w-100 fw-normal tw-text-4 text-paragraph-500">Join our fun and engaging summer camp filled with activities, learning, and new friendships.</p>
+                <div class="d-flex align-items-end tw-gap-1">
+                    <h2 class="our-pircing-text fw-normal text-main-two-600 h4">Limited Seats</h2>
+                </div>
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLSeX3HNUeDPu_lLfEG8xhGCl2tAmuVCAth2FHp3IdeNmtxtm7g/viewform" target="_blank" class="btn btn-main-two hover-style-two button--stroke active-scale-094 tw-duration-100 d-inline-flex align-items-center justify-content-center tw-gap-5 group active--translate-y-2 tw-rounded-2xl tw-text-4 tw-border-bottom-main-two-600" data-block="button">
+                    <span class="button__flair"></span>
+                    <span class="button__label">Register Now</span>
+                    <span class="text-white tw-text-2xl group-hover-text-white tw-duration-500 position-relative">
+                        <img src="assets/images/icon/banner-icon-white.png" alt="icon">
+                    </span>
+                </a>
+                <div class="our-pricing-plan-text-bottom w-100">
+                    <div class="d-flex align-items-center justify-content-end w-100">
+                        <div class="max-w-550-px w-100 d-flex align-items-center tw-gap-5 justify-content-between flex-wrap">
+                            <div>
+                                <div class="d-flex align-items-center tw-gap-2 tw-mb-2">
+                                    <span class="tw-text-4 text-black">
+                                        <i class="ph-bold ph-check"></i>
+                                    </span>
+                                    <span class="fw-normal tw-text-4 text-black">Skill-Building Activities</span>
+                                </div>
+                                <div class="d-flex align-items-center tw-gap-2">
+                                    <span class="tw-text-4 text-black">
+                                        <i class="ph-bold ph-check"></i>
+                                    </span>
+                                    <span class="fw-normal tw-text-4 text-black">Interactive Games</span>
+                                </div>
+                            </div>
+                            <div class="">
+                                <div class="d-flex align-items-center tw-gap-2 tw-mb-2">
+                                    <span class="tw-text-4 text-black">
+                                        <i class="ph-bold ph-check"></i>
+                                    </span>
+                                    <span class="fw-normal tw-text-4 text-black">Safe Environment</span>
+                                </div>
+                                <div class="d-flex align-items-center tw-gap-2">
+                                    <span class="tw-text-4 text-black">
+                                        <i class="ph-bold ph-check"></i>
+                                    </span>
+                                    <span class="fw-normal tw-text-4 text-black">Expert Facilitators</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</section>
+<!-- ========================== our pricing section end ========================== -->
+    <div class="bg-neutral-10 position-relative">
+    <img src="assets/images/shape/footer-shape2.png" alt="shape" class="position-absolute bottom-0 tw-start-0 tw-mb-7 tw-ms-12 animation-upDown d-xl-block d-none">
+    <div class="tw-mb-242-px">
+        <!-- =========================== our testimonial top start =========================== -->
+        <div class="tw-mt--250-px z-2">
+            <div class="container">
+                <div class="position-relative" data-aos="zoom-in" data-aos-duration="1500">
+                    <img src="assets/images/thumbs/our-testimonial-top-img1.png" alt="img" class="w-100">
+                     <a href="https://www.youtube.com/watch?v=MFLVmAE4cqg" class="play-button play-button-two border-main-two-600 border rounded-circle d-flex align-items-center justify-content-center position-absolute top-0 tw-start-0 top-50 tw-start-50 translate-middle">
+                        <img src="assets/images/icon/our-testimonial-top-icon.png" alt="icon" class="tw-w-115-px tw-h-115-px">
+                    </a>
+                </div>
+            </div>
+        </div>
+        <!-- =========================== our testimonial top end =========================== -->
+        
+        
+        
+        <!-- ============================ our testimonial section start ============================ -->
+        <section class="py-110">
+            <div class="container">
+                <div class="text-center tw-mb-10">
+                    <span class="fw-normal tw-text-405 text-main-600 tw-mb-6" data-aos="fade-up" data-aos-duration="600" data-aos-delay="100">Our Testimonials</span>
+                    <h2 class="fw-bold text-neutral-950 h4" data-aos="fade-up" data-aos-duration="600" data-aos-delay="200">What Our Client Say<br> About Our Kindergarten</h2>
+                </div>
+
+                <div class="swiper testimonial-swiper-slider">
+                    <div class="swiper-wrapper">
+                        <div class="swiper-slide" data-aos="fade-up" data-aos-duration="600" data-aos-delay="100">
+                            <div>
+                                <div class="tw-py-11 tw-px-10 bg-main-600 tw-rounded-top-bottom-38-px tw-mb-4 position-relative">
+                                    <ul class="d-flex align-items-center tw-gap-1 tw-mb-4">
+                                        <li class="tw-text-6 text-white ">
+                                            <i class="ph-fill ph-star"></i>
+                                        </li>
+                                        <li class="tw-text-6 text-white ">
+                                            <i class="ph-fill ph-star"></i>
+                                        </li>
+                                        <li class="tw-text-6 text-white ">
+                                            <i class="ph-fill ph-star"></i>
+                                        </li>
+                                        <li class="tw-text-6 text-white ">
+                                            <i class="ph-fill ph-star"></i>
+                                        </li>
+                                        <li class="tw-text-6 text-white ">
+                                            <i class="ph-fill ph-star"></i>
+                                        </li>
+                                    </ul>
+                                    <p class="fw-medium line-height-32-px tw-text-405 text-white">love this kindergarten! The teachers are incredibly caring and patient, creating a warm and welcoming environment for the children.</p>
+                                    <img src="assets/images/icon/testimonial-icon1.png" alt="icon" class="position-absolute bottom-0 tw-end-0 tw-mb--38-px tw-me-11">
+                                </div>
+                                <div class="d-flex align-items-center tw-gap-3">
+                                    <span>
+                                        <img src="assets/images/thumbs/testimonial-img1.png" alt="img">
+                                    </span>
+                                    <div>
+                                        <span class="fw-bold tw-text-405 text-neutral-950 tw-mb-1 d-block ">John Smith</span>
+                                        <span class="fw-normal tw-text-405 text-neutral-600">Student Father</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide" data-aos="fade-up" data-aos-duration="600" data-aos-delay="200">
+                            <div>
+                                <div class="tw-py-11 tw-px-10 bg-pink-600 tw-rounded-top-bottom-38-px tw-mb-4 position-relative">
+                                    <ul class="d-flex align-items-center tw-gap-1 tw-mb-4">
+                                        <li class="tw-text-6 text-white ">
+                                            <i class="ph-fill ph-star"></i>
+                                        </li>
+                                        <li class="tw-text-6 text-white ">
+                                            <i class="ph-fill ph-star"></i>
+                                        </li>
+                                        <li class="tw-text-6 text-white ">
+                                            <i class="ph-fill ph-star"></i>
+                                        </li>
+                                        <li class="tw-text-6 text-white ">
+                                            <i class="ph-fill ph-star"></i>
+                                        </li>
+                                        <li class="tw-text-6 text-white ">
+                                            <i class="ph-fill ph-star"></i>
+                                        </li>
+                                    </ul>
+                                    <p class="fw-medium line-height-32-px tw-text-405 text-white">love this kindergarten! The teachers are incredibly caring and patient, creating a warm and welcoming environment for the children.</p>
+                                    <img src="assets/images/icon/testimonial-icon1.png" alt="icon" class="position-absolute bottom-0 tw-end-0 tw-mb--38-px tw-me-11">
+                                </div>
+                                <div class="d-flex align-items-center tw-gap-3">
+                                    <span>
+                                        <img src="assets/images/thumbs/testimonial-img2.png" alt="img">
+                                    </span>
+                                    <div>
+                                        <span class="fw-bold tw-text-405 text-neutral-950 tw-mb-1 d-block ">William John</span>
+                                        <span class="fw-normal tw-text-405 text-neutral-600">Student Father</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide" data-aos="fade-up" data-aos-duration="600" data-aos-delay="300">
+                            <div>
+                                <div class="tw-py-11 tw-px-10 bg-main-two-600 tw-rounded-top-bottom-38-px tw-mb-4 position-relative">
+                                    <ul class="d-flex align-items-center tw-gap-1 tw-mb-4">
+                                        <li class="tw-text-6 text-white ">
+                                            <i class="ph-fill ph-star"></i>
+                                        </li>
+                                        <li class="tw-text-6 text-white ">
+                                            <i class="ph-fill ph-star"></i>
+                                        </li>
+                                        <li class="tw-text-6 text-white ">
+                                            <i class="ph-fill ph-star"></i>
+                                        </li>
+                                        <li class="tw-text-6 text-white ">
+                                            <i class="ph-fill ph-star"></i>
+                                        </li>
+                                        <li class="tw-text-6 text-white ">
+                                            <i class="ph-fill ph-star"></i>
+                                        </li>
+                                    </ul>
+                                    <p class="fw-medium line-height-32-px tw-text-405 text-white">love this kindergarten! The teachers are incredibly caring and patient, creating a warm and welcoming environment for the children.</p>
+                                    <img src="assets/images/icon/testimonial-icon1.png" alt="icon" class="position-absolute bottom-0 tw-end-0 tw-mb--38-px tw-me-11">
+                                </div>
+                                <div class="d-flex align-items-center tw-gap-3">
+                                    <span>
+                                        <img src="assets/images/thumbs/testimonial-img3.png" alt="img">
+                                    </span>
+                                    <div>
+                                        <span class="fw-bold tw-text-405 text-neutral-950 tw-mb-1 d-block ">Michel Smith</span>
+                                        <span class="fw-normal tw-text-405 text-neutral-600">Student Father</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide" data-aos="fade-up" data-aos-duration="600" data-aos-delay="200">
+                            <div>
+                                <div class="tw-py-11 tw-px-10 bg-pink-600 tw-rounded-top-bottom-38-px tw-mb-4 position-relative">
+                                    <ul class="d-flex align-items-center tw-gap-1 tw-mb-4">
+                                        <li class="tw-text-6 text-white ">
+                                            <i class="ph-fill ph-star"></i>
+                                        </li>
+                                        <li class="tw-text-6 text-white ">
+                                            <i class="ph-fill ph-star"></i>
+                                        </li>
+                                        <li class="tw-text-6 text-white ">
+                                            <i class="ph-fill ph-star"></i>
+                                        </li>
+                                        <li class="tw-text-6 text-white ">
+                                            <i class="ph-fill ph-star"></i>
+                                        </li>
+                                        <li class="tw-text-6 text-white ">
+                                            <i class="ph-fill ph-star"></i>
+                                        </li>
+                                    </ul>
+                                    <p class="fw-medium line-height-32-px tw-text-405 text-white">love this kindergarten! The teachers are incredibly caring and patient, creating a warm and welcoming environment for the children.</p>
+                                    <img src="assets/images/icon/testimonial-icon1.png" alt="icon" class="position-absolute bottom-0 tw-end-0 tw-mb--38-px tw-me-11">
+                                </div>
+                                <div class="d-flex align-items-center tw-gap-3">
+                                    <span>
+                                        <img src="assets/images/thumbs/testimonial-img2.png" alt="img">
+                                    </span>
+                                    <div>
+                                        <span class="fw-bold tw-text-405 text-neutral-950 tw-mb-1 d-block ">William John</span>
+                                        <span class="fw-normal tw-text-405 text-neutral-600">Student Father</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- ============================ our testimonial section end ============================ -->
+    </div>
+</div>
+
+
+    <!-- ============================ get start section start ============================ -->
+<section>
+    <div class="container">
+        <div class="bg-main-two-200 tw-px-90-px tw-rounded-4xl position-relative z-2 overflow-hidden tw-mt--242-px">
+            <img src="assets/images/shape/banner-shape1.png" alt="shape" class="position-absolute bottom-0 tw-start-0 w-100 ">
+            <img src="assets/images/shape/get-start-shape1.png" alt="shape" class="position-absolute bottom-0 tw-start-0 w-100">
+            <img src="assets/images/shape/get-start-shape2.png" alt="shape" class="position-absolute bottom-0 tw-start-0 tw-start-50 translate-middle d-xl-block d-none">
+            <img src="assets/images/shape/get-start-shape4.png" alt="shape" class="position-absolute top-0 tw-end-0 tw-end-50 tw-mt-6 d-xl-block d-none animation-scalation">
+            <div class="row gy-4">
+                <div class="col-xl-6">
+                    <div class="tw-pt-17 pb-110">
+                        <span class="fw-normal tw-text-405 text-main-600 tw-mb-4" data-aos="fade-up" data-aos-duration="600" data-aos-delay="100">Get Started Now</span>
+                        <h2 class="fw-bold text-neutral-950 line-height-62-px tw-mb-5 h4" data-aos="fade-up" data-aos-duration="600" data-aos-delay="200">How to enroll your child to a class?</h2>
+                        <p class="fw-normal tw-text-4 text-paragraph-500 tw-mb-6" data-aos="fade-up" data-aos-duration="600" data-aos-delay="300">We are excited and pleased to introduce you to the wonderful, passionate and committed educators who are working at Skole Learning Centre.</p>
+                        <a href="apply-for-admission.html" class="btn btn-main-two hover-style-two button--stroke active-scale-094 tw-duration-100 d-inline-flex align-items-center justify-content-center tw-gap-5 group active--translate-y-2 tw-rounded-2xl tw-text-4 tw-border-bottom-white" data-block="button" data-aos="fade-up" data-aos-duration="600" data-aos-delay="350">
+                            <span class="button__flair"></span>
+                            <span class="button__label">Book Your Visit</span>
+                            <span class="text-white tw-text-2xl group-hover-text-white tw-duration-500 position-relative">
+                                <img src="assets/images/icon/banner-icon-white.png" alt="icon">
+                            </span>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-xl-6" data-aos="zoom-in" data-aos-duration="1500">
+                    <div class="d-xl-block d-none">
+                        <span class="d-flex align-items-end justify-content-center z-n1 position-relative">
+                            <img src="assets/images/thumbs/get-start-img1.png" alt="img">
+                            <img src="assets/images/shape/get-start-shape3.png" alt="shape" class="position-absolute top-0 tw-start-0 tw-mt-114-px d-xl-block d-none animation-upDown">
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- ============================ get start section end ============================ -->
+
+    <!-- ========================= blog section start ========================= -->
+<section class="py-110 position-relative">
+    <img src="assets/images/shape/blog-shape1.png" alt="shape" class="position-absolute top-0 tw-end-0 tw-mt-260-px tw-me-130-px z-n1 d-xl-block d-none animation-upDown">
+    <img src="assets/images/shape/blog-shape2.png" alt="shape" class="position-absolute bottom-0 tw-start-0 z-n1 d-xl-block d-none animation-upDown tw-mt--170-px tw-ms-100-px">
+
+    <div class="container">
+        <div class="text-center tw-mb-12">
+            <span class="fw-normal tw-text-405 text-main-600 tw-mb-6" data-aos="fade-up" data-aos-duration="600" data-aos-delay="100">Our Blog & News</span>
+            <h2 class="fw-bold text-neutral-950 h4" data-aos="fade-up" data-aos-duration="600" data-aos-delay="200">View Our Latest Blog,<br> Trends and Insights</h2>
+        </div>
+        <div class="row gy-5">
+            <div class="col-xl-4 col-lg-6 col-md-6" data-aos="fade-up" data-aos-duration="600" data-aos-delay="100">
+                <div class="animation-item">
+                    <span class="overflow-hidden tw-rounded-20-px tw-rounded-top-20-px w-100">
+                        <img src="assets/images/thumbs/blog-img1.png" alt="img" class="tw-duration-300 course-item__img bg-img">
+                    </span>
+                    <div class="tw-p-7 bg-white tw-rounded-bottom-20-px">
+                        <div class="d-flex align-items-center tw-gap-5 flex-wrap tw-mb-4">
+                            <span class="fw-medium tw-text-4 text-white bg-main-600 tw-py-1 tw-px-5 rounded-pill">
+                                Education
+                            </span>
+                            <div class="d-flex align-items-center tw-gap-1">
+                                <span class="tw-text-405 text-main-600">
+                                    <i class="ph-bold ph-calendar-dots"></i>
+                                </span>
+                                <span class="fw-normal tw-text-4 text-neutral-600">12 June, 2025</span>
+                            </div>
+                        </div>
+                        <h2 class="h5">
+                            <a href="blog-details.html" class="fw-bold text-neutral-950 tw-mb-8">
+                                How to Prepare Your Child for Their First Day
+                            </a>
+                        </h2>
+                        <div class="d-flex align-items-center tw-gap-3 justify-content-between flex-wrap">
+                            <div class="d-flex align-items-center tw-gap-2">
+                                <span>
+                                    <img src="assets/images/thumbs/blog-img4.png" alt="img">
+                                </span>
+                                <div>
+                                    <span class="fw-bold tw-text-4 text-neutral-950 d-block">John Smith</span>
+                                    <span class="fw-normal tw-text-305 text-neutral-500">Blog Writer</span>
+                                </div>
+                            </div>
+                            <a href="blog-details.html" class="tw-w-10 tw-h-10 border-main-600 border rounded-circle d-flex align-items-center justify-content-center text-main-600 tw-text-405 hover-bg-main-600 hover-text-white tw-duration-300">
+                                <i class="ph-bold ph-arrow-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xl-4 col-lg-6 col-md-6" data-aos="fade-up" data-aos-duration="600" data-aos-delay="200">
+                <div class="animation-item">
+                    <span class="overflow-hidden tw-rounded-20-px tw-rounded-top-20-px w-100">
+                        <img src="assets/images/thumbs/blog-img2.png" alt="img" class="tw-duration-300 course-item__img bg-img">
+                    </span>
+                    <div class="tw-p-7 bg-white tw-rounded-bottom-20-px">
+                        <div class="d-flex align-items-center tw-gap-5 flex-wrap tw-mb-4">
+                            <span class="fw-medium tw-text-4 text-white bg-main-two-600 tw-py-1 tw-px-5 rounded-pill">
+                                Education
+                            </span>
+                            <div class="d-flex align-items-center tw-gap-1">
+                                <span class="tw-text-405 text-main-600">
+                                    <i class="ph-bold ph-calendar-dots"></i>
+                                </span>
+                                <span class="fw-normal tw-text-4 text-neutral-600">12 June, 2025</span>
+                            </div>
+                        </div>
+                        <h2 class="h5">
+                            <a href="blog-details.html" class="fw-bold text-neutral-950 tw-mb-8">
+                                Discovering the Joys of Child Kindergarten...
+                            </a>
+                        </h2>
+                        <div class="d-flex align-items-center tw-gap-3 justify-content-between flex-wrap">
+                            <div class="d-flex align-items-center tw-gap-2">
+                                <span>
+                                    <img src="assets/images/thumbs/blog-img4.png" alt="img">
+                                </span>
+                                <div>
+                                    <span class="fw-bold tw-text-4 text-neutral-950 d-block">John Smith</span>
+                                    <span class="fw-normal tw-text-305 text-neutral-500">Blog Writer</span>
+                                </div>
+                            </div>
+                            <a href="blog-details.html" class="tw-w-10 tw-h-10 border-main-600 border rounded-circle d-flex align-items-center justify-content-center text-main-600 tw-text-405 hover-bg-main-600 hover-text-white tw-duration-300">
+                                <i class="ph-bold ph-arrow-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xl-4 col-lg-6 col-md-6" data-aos="fade-up" data-aos-duration="600" data-aos-delay="300">
+                <div class="animation-item">
+                    <span class="overflow-hidden tw-rounded-20-px tw-rounded-top-20-px w-100">
+                        <img src="assets/images/thumbs/blog-img3.png" alt="img" class="tw-duration-300 course-item__img bg-img">
+                    </span>
+                    <div class="tw-p-7 bg-white tw-rounded-bottom-20-px">
+                        <div class="d-flex align-items-center tw-gap-5 flex-wrap tw-mb-4">
+                            <span class="fw-medium tw-text-4 text-white bg-main-600 tw-py-1 tw-px-5 rounded-pill">
+                                Education
+                            </span>
+                            <div class="d-flex align-items-center tw-gap-1">
+                                <span class="tw-text-405 text-main-600">
+                                    <i class="ph-bold ph-calendar-dots"></i>
+                                </span>
+                                <span class="fw-normal tw-text-4 text-neutral-600">12 June, 2025</span>
+                            </div>
+                        </div>
+                        <h2 class="h5">
+                            <a href="blog-details.html" class="fw-bold text-neutral-950 tw-mb-8">
+                                Creating Friendships and Memories in Schoo...
+                            </a>
+                        </h2>
+                        <div class="d-flex align-items-center tw-gap-3 justify-content-between flex-wrap">
+                            <div class="d-flex align-items-center tw-gap-2">
+                                <span>
+                                    <img src="assets/images/thumbs/blog-img4.png" alt="img">
+                                </span>
+                                <div>
+                                    <span class="fw-bold tw-text-4 text-neutral-950 d-block">John Smith</span>
+                                    <span class="fw-normal tw-text-305 text-neutral-500">Blog Writer</span>
+                                </div>
+                            </div>
+                            <a href="blog-details.html" class="tw-w-10 tw-h-10 border-main-600 border rounded-circle d-flex align-items-center justify-content-center text-main-600 tw-text-405 hover-bg-main-600 hover-text-white tw-duration-300">
+                                <i class="ph-bold ph-arrow-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- ========================= blog section end ========================= -->
+
+    <!-- ============================= newsletter section start ============================= -->
+<section class="tw-mb--210-px z-3">
+    <div class="container">
+        <div class="position-relative">
+            <img src="assets/images/shape/newsletter-shape3.png" alt="shape" class="position-absolute top-0 tw-start-0 tw-mt-4 tw-ms-140-px d-xxl-block d-none shadow-none z-1 animation-upDown">
+            <img src="assets/images/shape/newsletter-shape2.png" alt="shape" class="position-absolute top-0 tw-end-0 tw-mt-110-px tw-ms-106-px z-1 d-xxl-block d-none animation-rotate-right">
+            <img src="assets/images/shape/newsletter-shape1.png" alt="shape" class="position-absolute top-0 tw-end-0 tw-mt-10 tw-me-400-px tw-me-400-px animation-scalation d-xxl-block d-none z-1">
+            <div class="tw-py-99-px bg-main-600 choose-us-musk-bg-img5 tw-px-8">
+                <div class="max-w-750-px w-100 mx-auto">
+                    <div class="text-center tw-mb-8">
+                        <span class="fw-normal tw-text-405 text-white tw-mb-6" data-aos="fade-up" data-aos-duration="600" data-aos-delay="100">Subscribe Newsletter</span>
+                        <h2 class="fw-bold text-white h4" data-aos="fade-up" data-aos-duration="600" data-aos-delay="200">Subscribe to our newsletter for daily updates</h2>
+                    </div>
+                    <form action="#" data-aos="fade-up" data-aos-duration="600" data-aos-delay="300">
+                        <div class="row gy-4">
+                            <div class="col-xl-8">
+                                <input type="email" placeholder="Enter your email" class="tw-py-4 tw-px-6 bg-white w-100 border-0 fw-normal tw-text-305 tw-rounded-2xl text-neutral-600 focus-visible-border-none">
+                            </div>
+                            <div class="col-xl-4">
+                                <div>
+                                    <button type="submit" class="btn btn-main-three hover-style-two button--stroke active-scale-094 tw-duration-100 d-inline-flex align-items-center justify-content-center tw-gap-5 group active--translate-y-2 tw-rounded-2xl tw-text-4" data-block="button">
+                                        <span class="button__flair"></span>
+                                        <span class="button__label">Explore More</span>
+                                        <span class="text-white tw-text-2xl group-hover-text-white tw-duration-500 position-relative">
+                                            <img src="assets/images/icon/banner-icon-white.png" alt="icon">
+                                        </span>
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- ============================= newsletter section end ============================= -->
+
+    <!-- ==================== Footer Start Here ==================== -->
+<footer class="footer bg-main-two-300 position-relative z-2">
+  <img src="assets/images/shape/our-program-shape1.png" alt="shape" class="position-absolute top-0 tw-start-0 w-100">
+  <img src="assets/images/shape/footer-shape1.png" alt="shape" class="position-absolute top-0 tw-start-0 tw-mt-240-px d-xl-block d-none z-n1 animation-upDown">
+  <img src="assets/images/shape/footer-shape2.png" alt="shape" class="position-absolute top-0 tw-end-0 tw-mt-200-px tw-me-130-px d-xl-block d-none z-n1 animation-upDown">
+  <img src="assets/images/shape/our-program-shaep2.png" alt="shape" class="position-absolute bottom-0 tw-end-0 tw-mb-242-px tw-me-130-px d-xl-block d-none z-n1 animation-scalation">
+  <div class="py-110">
+    <div class="tw-mt-210-px">
+      <div class="container container-two">
+        <div class="row gy-5">
+          <div class="col-xl-3 col-lg-6 col-sm-6 aos-init aos-animate" data-aos="fade-up" data-aos-duration="600" data-aos-delay="100"> 
+            <div>
+              <a href="index.html" class="tw-mb-2">
+                <img src="assets/images/logo/mindwave_logo.png" alt="logo">
+              </a>
+              <p class="fw-normal tw-text-4 text-paragraph-500 tw-mb-6">Empowering children with diverse learning needs through specialized therapy and expert guidance in Madurai.</p>
+              <ul class="d-flex align-items-center tw-gap-2 flex-wrap">
+                <li>
+                  <a href="https://www.facebook.com" class="tw-w-9 tw-h-9 bg-white text-black tw-rounded-lg hover-bg-main-600 hover-text-white tw-duration-300 tw-text-405 d-flex align-items-center justify-content-center">
+                    <i class="ph-fill ph-facebook-logo"></i>
+                  </a>
+                </li>
+                <li>
+                  <a href="https://www.twitter.com" class="tw-w-9 tw-h-9 bg-white text-black tw-rounded-lg hover-bg-main-600 hover-text-white tw-duration-300 tw-text-405 d-flex align-items-center justify-content-center">
+                    <i class="ph-fill ph-twitter-logo"></i>
+                  </a>
+                </li>
+                <li>
+                  <a href="https://www.linkedin.com" class="tw-w-9 tw-h-9 bg-white text-black tw-rounded-lg hover-bg-main-600 hover-text-white tw-duration-300 tw-text-405 d-flex align-items-center justify-content-center">
+                    <i class="ph-fill ph-linkedin-logo"></i>
+                  </a>
+                </li>
+                <li>
+                  <a href="https://www.youtube.com/" class="tw-w-9 tw-h-9 bg-white text-black tw-rounded-lg hover-bg-main-600 hover-text-white tw-duration-300 tw-text-405 d-flex align-items-center justify-content-center">
+                    <i class="ph-fill ph-youtube-logo"></i>
+                  </a>
+                </li>           
+              </ul>
+            </div>
+          </div>
+          <div class="col-xl-3 col-lg-6 col-sm-6 aos-init aos-animate" data-aos="fade-up" data-aos-duration="600" data-aos-delay="200">
+              <div>
+                <h1 class="fw-bold text-neutral-950 h5">Quick Links</h1>
+                <span class="tw-w-82-px tw-h-05 tw-border-gradient tw-mb-7 tw-mt-5"></span>
+                <div class="d-flex flex-column tw-gap-3">
+                  <a href="apply-for-admission.html" class="tw-text-4 text-paragraph-600 d-flex align-items-center tw-gap-2 hover-text-main-600 tw-duration-300">
+                    <span class="tw-text-405 ">
+                      <i class="ph-bold ph-caret-double-right"></i>
+                    </span>
+                    Admissions
+                  </a>
+                  <a href="javascript:void(0)" class="tw-text-4 text-paragraph-600 d-flex align-items-center tw-gap-2 hover-text-main-600 tw-duration-300">
+                    <span class="tw-text-405 ">
+                      <i class="ph-bold ph-caret-double-right"></i>
+                    </span>
+                    Outdoor Games
+                  </a>
+                  <a href="javascript:void(0)" class="tw-text-4 text-paragraph-600 d-flex align-items-center tw-gap-2 hover-text-main-600 tw-duration-300">
+                    <span class="tw-text-405 ">
+                      <i class="ph-bold ph-caret-double-right"></i>
+                    </span>
+                    Appointment
+                  </a>
+                  <a href="contact-us.html" class="tw-text-4 text-paragraph-600 d-flex align-items-center tw-gap-2 hover-text-main-600 tw-duration-300">
+                    <span class="tw-text-405 ">
+                      <i class="ph-bold ph-caret-double-right"></i>
+                    </span>
+                    Contact Us
+                  </a>
+                </div>
+              </div>
+          </div>
+          <div class="col-xl-3 col-lg-6 col-sm-6 aos-init aos-animate" data-aos="fade-up" data-aos-duration="600" data-aos-delay="300">
+              <div>
+                <h1 class="fw-bold text-neutral-950 h5">Recent Posts</h1>
+                <span class="tw-w-82-px tw-h-05 tw-border-gradient tw-mb-7 tw-mt-5"></span>
+                  <div class="d-flex align-items-center tw-gap-4 flex-sm-nowrap flex-wrap tw-mb-4">
+                    <span>
+                      <img src="assets/images/thumbs/footer-img1.png" alt="img">
+                    </span>
+                    <div class="">
+                      <div class="d-flex align-items-center tw-gap-105 tw-mb-1">
+                        <span class="tw-text-5 text-main-600 ">
+                          <i class="ph-bold ph-calendar-dots"></i>
+                        </span>
+                        <span class="fw-semibold tw-text-305 text-main-600">
+                          Jun 26, 2025
+                        </span>
+                      </div>
+                      <a href="blog-details.html" class="fw-bold tw-text-4 text-neutral-950 hover-text-main-600">That jerk Form Finance really threw me</a>
+                    </div>
+                  </div>
+                  <div class="d-flex align-items-center tw-gap-4 flex-sm-nowrap flex-wrap tw-mb-4">
+                    <span>
+                      <img src="assets/images/thumbs/footer-img2.png" alt="img">
+                    </span>
+                    <div class="">
+                      <div class="d-flex align-items-center tw-gap-105 tw-mb-1">
+                        <span class="tw-text-5 text-main-600 ">
+                          <i class="ph-bold ph-calendar-dots"></i>
+                        </span>
+                        <span class="fw-semibold tw-text-305 text-main-600">
+                          Feb 20, 2025
+                        </span>
+                      </div>
+                      <a href="blog-details.html" class="fw-bold tw-text-4 text-neutral-950 hover-text-main-600">From without content style without </a>
+                    </div>
+                  </div>
+              </div>
+          </div>
+          <div class="col-xl-3 col-lg-6 col-sm-6 aos-init aos-animate" data-aos="fade-up" data-aos-duration="600" data-aos-delay="400">
+            <div>
+              <h1 class="fw-bold text-neutral-950 h5">Categories</h1>
+              <span class="tw-w-82-px tw-h-05 tw-border-gradient tw-mb-7 tw-mt-5"></span>
+              <div class="d-flex flex-column tw-gap-3">
+                <a href="javascript:void(0)" class="tw-text-4 text-paragraph-600 d-flex align-items-center tw-gap-2 hover-text-main-600 tw-duration-300">
+                  <span class="tw-text-405 ">
+                    <i class="ph-bold ph-caret-double-right"></i>
+                  </span>
+                  Music Learning
+                </a>
+                <a href="javascript:void(0)" class="tw-text-4 text-paragraph-600 d-flex align-items-center tw-gap-2 hover-text-main-600 tw-duration-300">
+                  <span class="tw-text-405 ">
+                    <i class="ph-bold ph-caret-double-right"></i>
+                  </span>
+                  Sports, Games
+                </a>
+                <a href="javascript:void(0)" class="tw-text-4 text-paragraph-600 d-flex align-items-center tw-gap-2 hover-text-main-600 tw-duration-300">
+                  <span class="tw-text-405 ">
+                    <i class="ph-bold ph-caret-double-right"></i>
+                  </span>
+                  Science Class
+                </a>
+                <a href="javascript:void(0)" class="tw-text-4 text-paragraph-600 d-flex align-items-center tw-gap-2 hover-text-main-600 tw-duration-300">
+                  <span class="tw-text-405 ">
+                    <i class="ph-bold ph-caret-double-right"></i>
+                  </span>
+                  Drawing
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+        <span class="w-100 tw-border-primary-600 tw-mt-15 tw-mb-15"></span>
+        <div class="row gy-4">
+          <!-- <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="600" data-aos-delay="100">
+            <div class="d-flex align-items-center tw-gap-4 flex-wrap">
+              <span class="tw-w-15 tw-h-15 bg-main-600 text-white d-flex align-items-center justify-content-center tw-text-7 rounded-circle">
+                <img src="assets/images/icon/footer-icon1.png" alt="icon">
+              </span>
+              <div>
+                <span class="fw-medium tw-text-4 text-paragraph-600 tw-mb-2
+                ">
+                  Call Us 7/24
+                </span>
+                <h2 class="h5">
+                  <a href="tel:+917826871718" class="fw-semibold text-neutral-950">
+                    +91 78268 71718
+                  </a>
+                </h2>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="600" data-aos-delay="200">
+            <div class="d-flex align-items-center tw-gap-4 flex-wrap">
+              <span class="tw-w-15 tw-h-15 bg-main-two-600 text-white d-flex align-items-center justify-content-center tw-text-7 rounded-circle">
+                <img src="assets/images/icon/footer-icon2.png" alt="icon">
+              </span>
+              <div>
+                <span class="fw-medium tw-text-4 text-paragraph-600 tw-mb-2">
+                  Make a Quote
+                </span>
+                <h2 class="h5">
+                  <a href="mailto:info@mindwaveindia.com" class="fw-semibold text-neutral-950">
+                    info@mindwaveindia.com
+                  </a>
+                </h2>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="600" data-aos-delay="300">
+            <div class="d-flex align-items-center tw-gap-4 flex-wrap">
+              <span class="tw-w-15 tw-h-15 bg-pink-600 text-white d-flex align-items-center justify-content-center tw-text-7 rounded-circle">
+                <img src="assets/images/icon/footer-icon3.png" alt="icon">
+              </span>
+              <div>
+                <span class="fw-medium tw-text-4 text-paragraph-600 tw-mb-2">
+                  Location
+                </span>
+                <h1 class="fw-semibold text-neutral-950 h5">
+                  No: 5, State Bank Officers Colony, Near Ellis Nagar, Madurai, Tamil Nadu 625016
+                </h1>
+              </div>
+            </div> -->
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
