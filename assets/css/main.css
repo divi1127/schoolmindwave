@@ -7037,15 +7037,14 @@ input:focus, input:focus-visible {
     cursor: pointer;
     display: block;
     border-radius: 50px;
-    box-shadow: inset 0 0 0 2px rgba(0, 0, 0, 0.2);
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.15);
     z-index: 10000;
     opacity: 0;
     visibility: hidden;
     transform: translateY(15px);
     -webkit-transition: all 200ms linear;
     transition: all 200ms linear;
-    background-color: #fff;
-    mix-blend-mode: difference;
+    background-color: #ffffff;
 }
 
 @media screen and (max-width: 991px) {
@@ -7085,7 +7084,7 @@ input:focus, input:focus-visible {
     z-index: 1;
     -webkit-transition: all 200ms linear;
     transition: all 200ms linear;
-    color: hsl(var(--main)) !important;
+    color: #ff6b6b !important;
 }
 
 @media screen and (max-width: 991px) {
@@ -7101,7 +7100,7 @@ input:focus, input:focus-visible {
 }
 
 .progress-wrap svg.progress-circle path {
-    stroke: var(--main-600);
+    stroke: #ff6b6b;
     stroke-width: 5;
     box-sizing: border-box;
     -webkit-transition: all 200ms linear;
