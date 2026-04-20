@@ -301,46 +301,159 @@
 </section>
 
 <!-- ======================= Core Values Section Start ======================= -->
-<section class="py-110">
+
+
+<section class="py-110 core-values-section">
     <div class="container text-center">
-        <span class="fw-normal tw-text-405 text-main-600 tw-mb-6 d-block" data-aos="fade-up">Our Core Values</span>
-        <h2 class="fw-bold text-neutral-950 tw-mb-12 h3" data-aos="fade-up" data-aos-delay="100">The Principles That Guide Us</h2>
-        
+        <span class="fw-normal tw-text-405 text-main-600 tw-mb-6 d-block" data-aos="fade-up">
+            Our Core Values
+        </span>
+
+        <h2 class="fw-bold text-neutral-950 tw-mb-12 h3" data-aos="fade-up" data-aos-delay="100">
+            The Principles That Guide Us
+        </h2>
+
         <div class="row gy-4">
+
             <div class="col-xl-3 col-sm-6" data-aos="zoom-in" data-aos-duration="600" data-aos-delay="100">
                 <div class="tw-p-10 tw-rounded-3xl hover-bg-main-50 tw-duration-300">
-                    <div class="tw-w-20 tw-h-20 bg-main-100 rounded-circle d-flex align-items-center justify-content-center mx-auto tw-mb-6 shadow-sm">
+                    <div class="value-icon-circle value-icon-main">
                         <i class="ph-fill ph-heart tw-text-4xl text-main-600"></i>
                     </div>
                     <h4 class="fw-bold text-neutral-950 h6">Compassion</h4>
                 </div>
             </div>
+
             <div class="col-xl-3 col-sm-6" data-aos="zoom-in" data-aos-duration="600" data-aos-delay="200">
                 <div class="tw-p-10 tw-rounded-3xl hover-bg-primary-50 tw-duration-300">
-                    <div class="tw-w-20 tw-h-20 bg-primary-100 rounded-circle d-flex align-items-center justify-content-center mx-auto tw-mb-6 shadow-sm">
+                    <div class="value-icon-circle value-icon-primary">
                         <i class="ph-fill ph-medal tw-text-4xl text-main-two-600"></i>
                     </div>
                     <h4 class="fw-bold text-neutral-950 h6">Excellence</h4>
                 </div>
             </div>
+
             <div class="col-xl-3 col-sm-6" data-aos="zoom-in" data-aos-duration="600" data-aos-delay="300">
                 <div class="tw-p-10 tw-rounded-3xl hover-bg-pink-50 tw-duration-300">
-                    <div class="tw-w-20 tw-h-20 bg-pink-100 rounded-circle d-flex align-items-center justify-content-center mx-auto tw-mb-6 shadow-sm">
+                    <div class="value-icon-circle value-icon-pink">
                         <i class="ph-fill ph-shield-check tw-text-4xl text-pink-600"></i>
                     </div>
                     <h4 class="fw-bold text-neutral-950 h6">Integrity</h4>
                 </div>
             </div>
+
             <div class="col-xl-3 col-sm-6" data-aos="zoom-in" data-aos-duration="600" data-aos-delay="400">
                 <div class="tw-p-10 tw-rounded-3xl hover-bg-main-50 tw-duration-300">
-                    <div class="tw-w-20 tw-h-20 bg-main-100 rounded-circle d-flex align-items-center justify-content-center mx-auto tw-mb-6 shadow-sm">
-                        <i class="ph-fill ph-lightbulb tw-text-4xl text-main-600"></i>
+                    <div class="value-icon-circle value-icon-yellow">
+                        <i class="ph-fill ph-lightbulb tw-text-4xl text-warning"></i>
                     </div>
                     <h4 class="fw-bold text-neutral-950 h6">Innovation</h4>
                 </div>
             </div>
+
         </div>
     </div>
+
+    <style>
+        .core-values-section {
+            position: relative;
+            overflow: hidden;
+        }
+
+        .core-values-section::before {
+            content: "";
+            position: absolute;
+            top: -120px;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 320px;
+            height: 320px;
+            border-radius: 50%;
+            background: radial-gradient(circle, rgba(196, 169, 255, 0.22) 0%, rgba(196, 169, 255, 0.08) 45%, rgba(196, 169, 255, 0) 75%);
+            z-index: 0;
+            filter: blur(10px);
+        }
+
+        .core-values-section .container {
+            position: relative;
+            z-index: 2;
+        }
+
+        .value-icon-circle {
+            width: 80px;
+            height: 80px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin: 0 auto 24px;
+            position: relative;
+            z-index: 1;
+            transition: all 0.3s ease;
+        }
+
+        .value-icon-circle::before {
+            content: "";
+            position: absolute;
+            inset: -12px;
+            border-radius: 50%;
+            z-index: -1;
+            opacity: 0.45;
+        }
+
+        .value-icon-circle::after {
+            content: "";
+            position: absolute;
+            inset: -24px;
+            border-radius: 50%;
+            z-index: -2;
+            opacity: 0.2;
+        }
+
+        .value-icon-main {
+            background: #f3ebff;
+            box-shadow: 0 12px 30px rgba(140, 82, 255, 0.12);
+        }
+
+        .value-icon-main::before,
+        .value-icon-main::after {
+            background: #f3ebff;
+        }
+
+        .value-icon-primary {
+            background: #eef5ff;
+            box-shadow: 0 12px 30px rgba(59, 130, 246, 0.12);
+        }
+
+        .value-icon-primary::before,
+        .value-icon-primary::after {
+            background: #eef5ff;
+        }
+
+        .value-icon-pink {
+            background: #ffeef6;
+            box-shadow: 0 12px 30px rgba(236, 72, 153, 0.12);
+        }
+
+        .value-icon-pink::before,
+        .value-icon-pink::after {
+            background: #ffeef6;
+        }
+
+        .value-icon-yellow {
+            background: #fff7e8;
+            box-shadow: 0 12px 30px rgba(245, 158, 11, 0.12);
+        }
+
+        .value-icon-yellow::before,
+        .value-icon-yellow::after {
+            background: #fff7e8;
+        }
+
+        .tw-p-10:hover .value-icon-circle {
+            transform: translateY(-6px) scale(1.05);
+        }
+    </style>
 </section>
 
 <!-- ========================== our team section start ========================== -->
