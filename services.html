@@ -192,7 +192,7 @@
                     </span>
 
                     <h1 class="hero-title">
-                        Explore Our <span>Sessions</span>
+                        Special Care for Unique <span>Learning Needs</span>
                     </h1>
 
                     <p class="hero-description">
@@ -219,179 +219,179 @@
         </div>
     </div>
 
-    <style>
+<style>
+    .sessions-hero {
+        background: linear-gradient(135deg, #0f172a 0%, #111827 35%, #1e3a8a 70%, #2563eb 100%);
+        padding: 120px 0 100px;
+        min-height: 520px;
+    }
+
+    .hero-kid-image {
+        position: absolute;
+        right: 0;
+        bottom: 0;
+        width: 42%;
+        height: 100%;
+        background: url('assets/images/shape/kidimage.png') no-repeat right bottom;
+        background-size: contain;
+        z-index: 1;
+        animation: floatKid 4s ease-in-out infinite;
+    }
+
+    .hero-content {
+        position: relative;
+        z-index: 3;
+        max-width: 520px;
+    }
+
+    .hero-badge {
+        display: inline-flex;
+        align-items: center;
+        gap: 10px;
+        background: rgba(255,255,255,0.12);
+        border: 1px solid rgba(255,255,255,0.2);
+        backdrop-filter: blur(10px);
+        padding: 10px 20px;
+        border-radius: 50px;
+        color: #ffffff;
+        font-weight: 700;
+        font-size: 14px;
+        margin-bottom: 20px;
+        animation: fadeUp 0.8s ease;
+    }
+
+    .hero-title {
+        font-size: 56px;
+        font-weight: 900;
+        line-height: 1.1;
+        color: #ffffff;
+        margin-bottom: 18px;
+        animation: fadeUp 1s ease;
+    }
+
+    .hero-title span {
+        display: block;
+        color: #60a5fa;
+        text-shadow: 0 4px 18px rgba(0,0,0,0.3);
+    }
+
+    .hero-description {
+        font-size: 17px;
+        line-height: 1.8;
+        color: rgba(255,255,255,0.8);
+        margin-bottom: 28px;
+        animation: fadeUp 1.2s ease;
+    }
+
+    .hero-breadcrumb {
+        list-style: none;
+        animation: fadeUp 1.4s ease;
+    }
+
+    .hero-breadcrumb li {
+        color: #f8a712;
+        font-weight: 600;
+    }
+
+    .hero-breadcrumb a {
+        color: #f1a62d;
+        text-decoration: none;
+        transition: 0.3s ease;
+    }
+
+    .hero-breadcrumb a:hover {
+        color: #60a5fa;
+    }
+
+    .hero-breadcrumb .divider,
+    .hero-breadcrumb span {
+        color: rgba(255,255,255,0.7);
+    }
+
+    .hero-circle {
+        position: absolute;
+        border-radius: 50%;
+        background: rgba(255,255,255,0.08);
+        z-index: 1;
+    }
+
+    .hero-circle-one {
+        width: 140px;
+        height: 140px;
+        top: -40px;
+        left: -40px;
+    }
+
+    .hero-circle-two {
+        width: 110px;
+        height: 110px;
+        bottom: -30px;
+        right: 32%;
+    }
+
+    @keyframes floatKid {
+        0%,100% {
+            transform: translateY(0);
+        }
+        50% {
+            transform: translateY(-12px);
+        }
+    }
+
+    @keyframes fadeUp {
+        from {
+            opacity: 0;
+            transform: translateY(30px);
+        }
+        to {
+            opacity: 1;
+            transform: translateY(0);
+        }
+    }
+
+    @media (max-width: 991px) {
         .sessions-hero {
-            background: linear-gradient(135deg, #ff6b6b 0%, #ff8e8e 35%, #ffb3b3 75%, #ffd6d6 100%);
-            padding: 120px 0 100px;
-            min-height: 520px;
+            padding: 100px 0 70px;
+            min-height: auto;
         }
 
         .hero-kid-image {
-            position: absolute;
-            right: 0;
-            bottom: 0;
-            width: 42%;
-            height: 100%;
-            background: url('assets/images/shape/kidimage.png') no-repeat right bottom;
-            background-size: contain;
-            z-index: 1;
-            animation: floatKid 4s ease-in-out infinite;
-        }
-
-        .hero-content {
             position: relative;
-            z-index: 3;
-            max-width: 520px;
-        }
-
-        .hero-badge {
-            display: inline-flex;
-            align-items: center;
-            gap: 10px;
-            background: rgba(255,255,255,0.18);
-            border: 1px solid rgba(255,255,255,0.3);
-            backdrop-filter: blur(10px);
-            padding: 10px 20px;
-            border-radius: 50px;
-            color: #fff;
-            font-weight: 700;
-            font-size: 14px;
-            margin-bottom: 20px;
-            animation: fadeUp 0.8s ease;
+            width: 100%;
+            height: 260px;
+            margin-top: 30px;
+            background-position: center bottom;
         }
 
         .hero-title {
-            font-size: 56px;
-            font-weight: 900;
-            line-height: 1.1;
-            color: #111;
-            margin-bottom: 18px;
-            animation: fadeUp 1s ease;
-        }
-
-        .hero-title span {
-            display: block;
-            color: #fff;
-            text-shadow: 0 4px 18px rgba(0,0,0,0.18);
+            font-size: 42px;
         }
 
         .hero-description {
-            font-size: 17px;
-            line-height: 1.8;
-            color: rgba(0,0,0,0.75);
-            margin-bottom: 28px;
-            animation: fadeUp 1.2s ease;
+            font-size: 15px;
+        }
+    }
+
+    @media (max-width: 575px) {
+        .hero-title {
+            font-size: 34px;
         }
 
-        .hero-breadcrumb {
-            list-style: none;
-            animation: fadeUp 1.4s ease;
+        .hero-badge {
+            font-size: 12px;
+            padding: 9px 16px;
         }
 
-        .hero-breadcrumb li {
-            color: #111;
-            font-weight: 600;
+        .hero-description {
+            font-size: 14px;
+            line-height: 1.7;
         }
 
-        .hero-breadcrumb a {
-            color: #111;
-            text-decoration: none;
-            transition: 0.3s ease;
+        .hero-kid-image {
+            height: 220px;
         }
-
-        .hero-breadcrumb a:hover {
-            color: #fff;
-        }
-
-        .hero-breadcrumb .divider,
-        .hero-breadcrumb span {
-            color: rgba(0,0,0,0.7);
-        }
-
-        .hero-circle {
-            position: absolute;
-            border-radius: 50%;
-            background: rgba(255,255,255,0.12);
-            z-index: 1;
-        }
-
-        .hero-circle-one {
-            width: 140px;
-            height: 140px;
-            top: -40px;
-            left: -40px;
-        }
-
-        .hero-circle-two {
-            width: 110px;
-            height: 110px;
-            bottom: -30px;
-            right: 32%;
-        }
-
-        @keyframes floatKid {
-            0%,100% {
-                transform: translateY(0);
-            }
-            50% {
-                transform: translateY(-12px);
-            }
-        }
-
-        @keyframes fadeUp {
-            from {
-                opacity: 0;
-                transform: translateY(30px);
-            }
-            to {
-                opacity: 1;
-                transform: translateY(0);
-            }
-        }
-
-        @media (max-width: 991px) {
-            .sessions-hero {
-                padding: 100px 0 70px;
-                min-height: auto;
-            }
-
-            .hero-kid-image {
-                position: relative;
-                width: 100%;
-                height: 260px;
-                margin-top: 30px;
-                background-position: center bottom;
-            }
-
-            .hero-title {
-                font-size: 42px;
-            }
-
-            .hero-description {
-                font-size: 15px;
-            }
-        }
-
-        @media (max-width: 575px) {
-            .hero-title {
-                font-size: 34px;
-            }
-
-            .hero-badge {
-                font-size: 12px;
-                padding: 9px 16px;
-            }
-
-            .hero-description {
-                font-size: 14px;
-                line-height: 1.7;
-            }
-
-            .hero-kid-image {
-                height: 220px;
-            }
-        }
-    </style>
+    }
+</style>
 </section>
 <!-- ================================ page header end ================================ -->
 
@@ -1523,14 +1523,14 @@
                         <div class="choose-us-musk-bg-img1 tw-py-11 tw-px-8 text-center tw-rounded-all animation-item tw-rounded-all">
                             <img src="assets/images/icon/choose-us-icon1.png" alt="icon" class="tw-mb-5 animate__bounce d-block mx-auto">
                             <span class="fw-medium tw-text-405 text-white tw-mb-5">Our Course Completed</span>
-                            <h2 class="fw-normal text-white h1">865+</h2>
+                            <h2 class="fw-normal text-white h1">2000+</h2>
                         </div>
                     </div>
                     <div class="col-sm-6" data-aos="fade-up" data-aos-duration="600" data-aos-delay="400">
                         <div class="choose-us-musk-bg-img2 tw-py-11 tw-px-8 text-center tw-rounded-all animation-item tw-rounded-all">
                             <img src="assets/images/icon/choose-us-icon2.png" alt="icon" class="tw-mb-5 animate__bounce d-block mx-auto">
                             <span class="fw-medium tw-text-405 text-white tw-mb-5">Years of Experience</span>
-                            <h2 class="fw-normal text-white h1">55+</h2>
+                            <h2 class="fw-normal text-white h1">12+</h2>
                         </div>
                     </div>
                 </div>
@@ -1608,15 +1608,16 @@
                         <div class="swiper-slide" data-aos="fade-up" data-aos-duration="600" data-aos-delay="100">
                             <div>
                                 <div class="tw-py-11 tw-px-10 bg-main-600 tw-rounded-top-bottom-38-px tw-mb-4 position-relative">
-                                    <p class="fw-medium line-height-32-px tw-text-405 text-white">We help children build strong foundational skills in reading and writing, ensuring they can express themselves clearly and confidently.</p>
+                                    <p class="fw-medium line-height-32-px tw-text-405 text-white"> We help children improve their speaking confidence, listening ability, and social interaction skills for better communication in daily life.
+                </p>
                                 </div>
                                 <div class="d-flex align-items-center tw-gap-3">
                                     <span class="tw-w-15 tw-h-15 bg-main-600 text-white d-flex align-items-center justify-content-center tw-text-7 rounded-circle">
                                         <i class="ph-bold ph-book-open"></i>
                                     </span>
                                     <div>
-                                        <span class="fw-bold tw-text-405 text-neutral-950 tw-mb-1 d-block ">Reading & Writing</span>
-                                        <span class="fw-normal tw-text-405 text-neutral-600">Core Literacy Skills</span>
+                                        <span class="fw-bold tw-text-405 text-neutral-950 tw-mb-1 d-block ">Communication Skills</span>
+                                        <span class="fw-normal tw-text-405 text-neutral-600">Speaking & Social Confidence</span>
                                     </div>
                                 </div>
                             </div>
@@ -1624,15 +1625,15 @@
                         <div class="swiper-slide" data-aos="fade-up" data-aos-duration="600" data-aos-delay="200">
                             <div>
                                 <div class="tw-py-11 tw-px-10 bg-pink-600 tw-rounded-top-bottom-38-px tw-mb-4 position-relative">
-                                    <p class="fw-medium line-height-32-px tw-text-405 text-white">Our interactive classes focus on developing fluency and confident communication in both Spoken Tamil and English.</p>
+                                    <p class="fw-medium line-height-32-px tw-text-405 text-white">                    Our personality development sessions encourage self-confidence, positive behavior, leadership qualities, and emotional growth in children.</p>
                                 </div>
                                 <div class="d-flex align-items-center tw-gap-3">
                                     <span class="tw-w-15 tw-h-15 bg-pink-600 text-white d-flex align-items-center justify-content-center tw-text-7 rounded-circle">
                                         <i class="ph-bold ph-chats"></i>
                                     </span>
                                     <div>
-                                        <span class="fw-bold tw-text-405 text-neutral-950 tw-mb-1 d-block ">Spoken Tamil & English</span>
-                                        <span class="fw-normal tw-text-405 text-neutral-600">Language Proficiency</span>
+                                        <span class="fw-bold tw-text-405 text-neutral-950 tw-mb-1 d-block ">Personality Development</span>
+                                        <span class="fw-normal tw-text-405 text-neutral-600">Confidence & Character Building</span>
                                     </div>
                                 </div>
                             </div>
@@ -1640,15 +1641,15 @@
                         <div class="swiper-slide" data-aos="fade-up" data-aos-duration="600" data-aos-delay="300">
                             <div>
                                 <div class="tw-py-11 tw-px-10 bg-main-two-600 tw-rounded-top-bottom-38-px tw-mb-4 position-relative">
-                                    <p class="fw-medium line-height-32-px tw-text-405 text-white">We simplify complex numerical concepts, helping kids develop a strong understanding of mathematics and logical problem-solving.</p>
+                                    <p class="fw-medium line-height-32-px tw-text-405 text-white">                    We teach effective memory improvement techniques that help children remember lessons, improve concentration, and retain information longer.</p>
                                 </div>
                                 <div class="d-flex align-items-center tw-gap-3">
                                     <span class="tw-w-15 tw-h-15 bg-main-two-600 text-white d-flex align-items-center justify-content-center tw-text-7 rounded-circle">
                                         <i class="ph-bold ph-calculator"></i>
                                     </span>
                                     <div>
-                                        <span class="fw-bold tw-text-405 text-neutral-950 tw-mb-1 d-block ">Mathematics</span>
-                                        <span class="fw-normal tw-text-405 text-neutral-600">Numerical & Logical Skills</span>
+                                        <span class="fw-bold tw-text-405 text-neutral-950 tw-mb-1 d-block ">Memory Study Techniques</span>
+                                        <span class="fw-normal tw-text-405 text-neutral-600">Learning & Retention Skills</span>
                                     </div>
                                 </div>
                             </div>
@@ -1730,21 +1731,12 @@
                             </div>
                         </div>
                         <h2 class="h5">
-                            <a href="blog-details.html" class="fw-bold text-neutral-950 tw-mb-8">
+                            <a href="blog-details-1.html" class="fw-bold text-neutral-950 tw-mb-8">
                                 How to Prepare Your Child for Their First Day
                             </a>
                         </h2>
-                        <div class="d-flex align-items-center tw-gap-3 justify-content-between flex-wrap">
-                            <div class="d-flex align-items-center tw-gap-2">
-                                <span>
-                                    <img src="assets/images/thumbs/blog-img4.png" alt="img">
-                                </span>
-                                <div>
-                                    <span class="fw-bold tw-text-4 text-neutral-950 d-block">John Smith</span>
-                                    <span class="fw-normal tw-text-305 text-neutral-500">Blog Writer</span>
-                                </div>
-                            </div>
-                            <a href="blog-details.html" class="tw-w-10 tw-h-10 border-main-600 border rounded-circle d-flex align-items-center justify-content-center text-main-600 tw-text-405 hover-bg-main-600 hover-text-white tw-duration-300">
+                        <div class="d-flex align-items-center tw-gap-3 justify-content-end flex-wrap">
+                            <a href="blog-details-1.html" class="tw-w-10 tw-h-10 border-main-600 border rounded-circle d-flex align-items-center justify-content-center text-main-600 tw-text-405 hover-bg-main-600 hover-text-white tw-duration-300">
                                 <i class="ph-bold ph-arrow-right"></i>
                             </a>
                         </div>
@@ -1769,21 +1761,12 @@
                             </div>
                         </div>
                         <h2 class="h5">
-                            <a href="blog-details.html" class="fw-bold text-neutral-950 tw-mb-8">
+                            <a href="blog-details-2.html" class="fw-bold text-neutral-950 tw-mb-8">
                                 Discovering the Joys of Child Kindergarten...
                             </a>
                         </h2>
-                        <div class="d-flex align-items-center tw-gap-3 justify-content-between flex-wrap">
-                            <div class="d-flex align-items-center tw-gap-2">
-                                <span>
-                                    <img src="assets/images/thumbs/blog-img4.png" alt="img">
-                                </span>
-                                <div>
-                                    <span class="fw-bold tw-text-4 text-neutral-950 d-block">John Smith</span>
-                                    <span class="fw-normal tw-text-305 text-neutral-500">Blog Writer</span>
-                                </div>
-                            </div>
-                            <a href="blog-details.html" class="tw-w-10 tw-h-10 border-main-600 border rounded-circle d-flex align-items-center justify-content-center text-main-600 tw-text-405 hover-bg-main-600 hover-text-white tw-duration-300">
+                        <div class="d-flex align-items-center tw-gap-3 justify-content-end flex-wrap">
+                            <a href="blog-details-2.html" class="tw-w-10 tw-h-10 border-main-600 border rounded-circle d-flex align-items-center justify-content-center text-main-600 tw-text-405 hover-bg-main-600 hover-text-white tw-duration-300">
                                 <i class="ph-bold ph-arrow-right"></i>
                             </a>
                         </div>
@@ -1808,21 +1791,13 @@
                             </div>
                         </div>
                         <h2 class="h5">
-                            <a href="blog-details.html" class="fw-bold text-neutral-950 tw-mb-8">
+                            <a href="blog-details-3.html" class="fw-bold text-neutral-950 tw-mb-8">
                                 Creating Friendships and Memories in Schoo...
                             </a>
                         </h2>
-                        <div class="d-flex align-items-center tw-gap-3 justify-content-between flex-wrap">
-                            <div class="d-flex align-items-center tw-gap-2">
-                                <span>
-                                    <img src="assets/images/thumbs/blog-img4.png" alt="img">
-                                </span>
-                                <div>
-                                    <span class="fw-bold tw-text-4 text-neutral-950 d-block">John Smith</span>
-                                    <span class="fw-normal tw-text-305 text-neutral-500">Blog Writer</span>
-                                </div>
-                            </div>
-                            <a href="blog-details.html" class="tw-w-10 tw-h-10 border-main-600 border rounded-circle d-flex align-items-center justify-content-center text-main-600 tw-text-405 hover-bg-main-600 hover-text-white tw-duration-300">
+                        <div class="d-flex align-items-center tw-gap-3 justify-content-end flex-wrap">
+                            
+                            <a href="blog-details-3.html" class="tw-w-10 tw-h-10 border-main-600 border rounded-circle d-flex align-items-center justify-content-center text-main-600 tw-text-405 hover-bg-main-600 hover-text-white tw-duration-300">
                                 <i class="ph-bold ph-arrow-right"></i>
                             </a>
                         </div>
@@ -1948,7 +1923,7 @@
                       Location
                     </span>
                     <span class="fw-medium text-neutral-950 h6 tw-mb-0">
-                      No: 5, State Bank Officers Colony, Near Ellis Nagar, Madurai, Tamil Nadu 625016
+                       T146, Near Ellis Nagar, Madurai, Tamil Nadu 625016
                     </span>
                   </div>
                 </div>

@@ -170,49 +170,227 @@
 
 
 <!-- ================================ page header start ================================ -->
-<section class="breadcrumb position-relative overflow-hidden" style="background: linear-gradient(135deg, #ff6b6b 0%, #ff8e8e 40%, #ffb3b3 80%, #ffd6d6 100%); padding-top: 200px; padding-bottom: 250px;">
-    <!-- Decorative floating icons -->
-    <div class="position-absolute d-flex align-items-center justify-content-center" style="top:20px;left:5%;width:46px;height:46px;background:rgba(255,255,255,0.25);border-radius:50%;animation:floatAbout 3s ease-in-out infinite;"><i class="ph-bold ph-star" style="font-size:1.3rem;color:#fff;"></i></div>
-    <div class="position-absolute d-flex align-items-center justify-content-center" style="top:40px;right:8%;width:40px;height:40px;background:rgba(255,255,255,0.2);border-radius:50%;animation:floatAbout 2.5s ease-in-out infinite 0.5s;"><i class="ph-bold ph-sparkle" style="font-size:1.1rem;color:#fff;"></i></div>
-    <div class="position-absolute d-flex align-items-center justify-content-center" style="bottom:30px;left:12%;width:38px;height:38px;background:rgba(255,255,255,0.18);border-radius:50%;animation:floatAbout 3.5s ease-in-out infinite 1s;"><i class="ph-bold ph-heart" style="font-size:1rem;color:#fff;"></i></div>
-    <div class="position-absolute d-flex align-items-center justify-content-center" style="bottom:20px;right:15%;width:44px;height:44px;background:rgba(255,255,255,0.22);border-radius:50%;animation:floatAbout 2.8s ease-in-out infinite 0.3s;"><i class="ph-bold ph-sun" style="font-size:1.2rem;color:#fff;"></i></div>
-    <div class="position-absolute d-flex align-items-center justify-content-center" style="top:60px;left:25%;width:36px;height:36px;background:rgba(255,255,255,0.15);border-radius:50%;animation:floatAbout 4s ease-in-out infinite 0.8s;"><i class="ph-bold ph-balloon" style="font-size:0.95rem;color:#fff;"></i></div>
-    <div class="position-absolute d-flex align-items-center justify-content-center" style="top:30px;right:30%;width:34px;height:34px;background:rgba(255,255,255,0.15);border-radius:50%;animation:floatAbout 3.2s ease-in-out infinite 1.2s;"><i class="ph-bold ph-confetti" style="font-size:0.9rem;color:#fff;"></i></div>
-    <!-- Big floating circles -->
-    <div class="position-absolute" style="width: 180px; height: 180px; background: rgba(255,255,255,0.12); border-radius: 50%; top: -50px; left: -50px;"></div>
-    <div class="position-absolute" style="width: 130px; height: 130px; background: rgba(255,255,255,0.1); border-radius: 50%; bottom: -40px; right: -30px;"></div>
-    <img src="assets/images/shape/banner-shape2.png" alt="shape" class="position-absolute bottom-0 tw-start-0 w-100" style="opacity: 0.2;">
-    <img src="assets/images/shape/kidhi.png" alt="shape" class="position-absolute top-0 tw-end-0 tw-mt-15 d-lg-block d-none animation-upDown" style="max-width: 280px;">
-    <img src="assets/images/shape/kidpencil.png" alt="shape" class="position-absolute bottom-0 tw-start-0 tw-h-320-px d-lg-block d-none tw-mb-12">
-    <div class="w-100">
-        <div class="container">
-            <div class="row justify-content-center">
-                <div class="col-lg-9">
-                    <div>
-                       
-                        <h3 class="text-center tw-mb-6" style="color: #000000; text-shadow: 0 2px 8px rgba(180,0,0,0.18); font-weight: 800; letter-spacing: 1px;"> About Us</h3>
-                        <ul class="d-flex align-items-center justify-content-center tw-gap-4">
-                            <li>
-                                <a href="index.html" style="color: rgba(0, 0, 0, 0.9);" class="tw-text-6 fst-italic hover-text-white">
-                                    <i class="las la-home"></i> Home
-                                </a>
-                            </li>
-                            <li>
-                                <i style="color: rgba(9, 9, 9, 0.7);" class="tw-text-6 fst-italic">/</i>
-                            </li>
-                            <li>
-                                <span style="color: black; font-weight: 700;" class="tw-text-6 fst-italic">
-                                    About Us
-                                </span>
-                            </li>
-                        </ul>
-                    </div>
+<section class="breadcrumb about-hero position-relative overflow-hidden">
+
+    <!-- Background Overlay -->
+    <div class="about-overlay"></div>
+
+    <!-- Background Shapes -->
+    <div class="about-circle about-circle-one"></div>
+    <div class="about-circle about-circle-two"></div>
+
+    <!-- Right Side Kid Image -->
+    <div class="about-kid-image"></div>
+
+    <div class="container position-relative z-2">
+        <div class="row align-items-center">
+
+            <!-- Left Content -->
+            <div class="col-lg-6">
+                <div class="about-content">
+                    <span class="about-badge">
+                        <i class="ph-bold ph-users-three"></i>
+                        About Mind Wave
+                    </span>
+
+                    <h1 class="about-title">
+                        Helping Every Child <span>Grow & Shine</span>
+                    </h1>
+
+                    <p class="about-description">
+                        Mind Wave is dedicated to empowering children through personalized therapy, learning support, and skill development programs that build confidence, independence, and lifelong success.
+                    </p>
+
+                    <ul class="about-breadcrumb d-flex align-items-center flex-wrap gap-3 p-0 m-0">
+                        <li>
+                            <a href="index.html">
+                                <i class="las la-home"></i> Home
+                            </a>
+                        </li>
+                        <li class="divider">/</li>
+                        <li>
+                            <span>About Us</span>
+                        </li>
+                    </ul>
                 </div>
             </div>
+
+            <div class="col-lg-6"></div>
         </div>
     </div>
+
+    <style>
+        .about-hero {
+            position: relative;
+            background: url('assets/images/bg/techtech.png') center center / cover no-repeat;
+            padding: 120px 0 100px;
+            min-height: 600px;
+        }
+
+        .about-overlay {
+            position: absolute;
+            inset: 0;
+            background: linear-gradient(
+                135deg,
+                rgba(15, 23, 42, 0.92) 0%,
+                rgba(17, 24, 39, 0.88) 35%,
+                rgba(30, 58, 138, 0.75) 70%,
+                rgba(37, 99, 235, 0.55) 100%
+            );
+            z-index: 0;
+        }
+
+        /* .about-kid-image {
+            position: absolute;
+            right: 0;
+            bottom: 0;
+            width: 42%;
+            height: 100%;
+            background: url('assets/images/bg/techtech.png') no-repeat right bottom;
+            background-size: contain;
+            z-index: 1;
+            animation: floatKid 4s ease-in-out infinite;
+        } */
+
+        .about-content {
+            position: relative;
+            z-index: 3;
+            max-width: 540px;
+        }
+
+        .about-badge {
+            display: inline-flex;
+            align-items: center;
+            gap: 10px;
+            background: rgba(255,255,255,0.12);
+            border: 1px solid rgba(255,255,255,0.2);
+            backdrop-filter: blur(10px);
+            padding: 10px 20px;
+            border-radius: 50px;
+            color: #ffffff;
+            font-weight: 700;
+            font-size: 14px;
+            margin-bottom: 20px;
+        }
+
+        .about-title {
+            font-size: 56px;
+            font-weight: 900;
+            line-height: 1.1;
+            color: #ffffff;
+            margin-bottom: 18px;
+        }
+
+        .about-title span {
+            display: block;
+            color: #60a5fa;
+        }
+
+        .about-description {
+            font-size: 17px;
+            line-height: 1.8;
+            color: rgba(255,255,255,0.8);
+            margin-bottom: 28px;
+        }
+
+        .about-breadcrumb {
+            list-style: none;
+        }
+
+        .about-breadcrumb li {
+            color: #f2a013;
+            font-weight: 600;
+        }
+
+        .about-breadcrumb a {
+            color: #eeac14;
+            text-decoration: none;
+            transition: 0.3s ease;
+        }
+
+        .about-breadcrumb a:hover {
+            color: #60a5fa;
+        }
+
+        .about-breadcrumb .divider,
+        .about-breadcrumb span {
+            color: rgba(255,255,255,0.7);
+        }
+
+        .about-circle {
+            position: absolute;
+            border-radius: 50%;
+            background: rgba(255,255,255,0.08);
+            z-index: 1;
+        }
+
+        .about-circle-one {
+            width: 140px;
+            height: 140px;
+            top: -40px;
+            left: -40px;
+        }
+
+        .about-circle-two {
+            width: 110px;
+            height: 110px;
+            bottom: -30px;
+            right: 32%;
+        }
+
+        @keyframes floatKid {
+            0%,100% {
+                transform: translateY(0);
+            }
+            50% {
+                transform: translateY(-12px);
+            }
+        }
+
+        @media (max-width: 991px) {
+            .about-hero {
+                padding: 100px 0 70px;
+                min-height: auto;
+            }
+
+            .about-kid-image {
+                position: relative;
+                width: 100%;
+                height: 260px;
+                margin-top: 30px;
+                background-position: center bottom;
+            }
+
+            .about-title {
+                font-size: 42px;
+            }
+
+            .about-description {
+                font-size: 15px;
+            }
+        }
+
+        @media (max-width: 575px) {
+            .about-title {
+                font-size: 34px;
+            }
+
+            .about-badge {
+                font-size: 12px;
+                padding: 9px 16px;
+            }
+
+            .about-description {
+                font-size: 14px;
+                line-height: 1.7;
+            }
+
+            .about-kid-image {
+                height: 220px;
+            }
+        }
+    </style>
 </section>
-<!-- ================================ page header end ================================ -->
 <!-- ================================ page header end ================================ -->
 
 <!-- ======================= About Detail Section Start ======================= -->
@@ -223,7 +401,7 @@
                 <div class="position-relative">
                     <img src="assets/images/thumbs/kindergarden-img1.png" alt="img" class="tw-rounded-3xl shadow-lg">
                     <div class="bg-main-600 tw-p-8 tw-rounded-2xl position-absolute bottom-0 tw-end-0 tw-mb--10 tw-me--4 d-sm-block d-none shadow-lg animation-upDown">
-                        <h3 class="text-white h2 fw-bold tw-mb-1 counter">15+</h3>
+                        <h3 class="text-white h2 fw-bold tw-mb-1 counter">12+</h3>
                         <span class="text-white fw-medium">Years of Excellence</span>
                     </div>
                 </div>
@@ -284,7 +462,7 @@
                         <i class="ph-fill ph-target tw-text-4xl text-main-600"></i>
                     </div>
                     <h3 class="fw-bold text-neutral-950 tw-mb-6 h4">Our Mission</h3>
-                    <p class="fw-normal tw-text-4 text-paragraph-600 line-height-32-px">To provide high-quality remedial education and therapeutic services that empower children with learning disabilities to gain confidence, independence, and the skills needed to succeed in academic and social environments.</p>
+                    <p class="fw-normal tw-text-4 text-paragraph-600 line-height-32-px">To provide high-quality remedial education and therapeutic services. Brain Gym activities mainly added, and survey of fitness features enhanced, empowering children to gain confidence and skills needed to succeed.</p>
                 </div>
             </div>
             <div class="col-lg-6" data-aos="fade-up" data-aos-duration="600" data-aos-delay="200">
@@ -293,7 +471,7 @@
                         <i class="ph-fill ph-eye tw-text-4xl text-main-two-600"></i>
                     </div>
                     <h3 class="fw-bold text-neutral-950 tw-mb-6 h4">Our Vision</h3>
-                    <p class="fw-normal tw-text-4 text-paragraph-600 line-height-32-px">To be the most trusted and impactful center in Madurai for neurodiverse children, fostering a society where every child's potential is recognized, respected, and fully realized.</p>
+                    <p class="fw-normal tw-text-4 text-paragraph-600 line-height-32-px">Lead for the life's own opportunity. Self-sustaining for independence, offering a unique way to develop their own way.</p>
                 </div>
             </div>
         </div>
@@ -518,15 +696,43 @@
                             <ul class="d-flex flex-column tw-gap-3">
                                 <li class="d-flex align-items-center tw-gap-3">
                                     <span class="tw-w-8 tw-h-8 bg-main-600 text-white rounded-circle d-flex align-items-center justify-content-center tw-text-xl"><i class="ph-bold ph-check"></i></span>
-                                    <span class="fw-medium text-neutral-900 tw-text-4">Special Education (Slow Learners)</span>
+                                    <span class="fw-medium text-neutral-950 tw-text-4">School Readiness Program & Mother Caring</span>
                                 </li>
                                 <li class="d-flex align-items-center tw-gap-3">
                                     <span class="tw-w-8 tw-h-8 bg-pink-600 text-white rounded-circle d-flex align-items-center justify-content-center tw-text-xl"><i class="ph-bold ph-check"></i></span>
-                                    <span class="fw-medium text-neutral-900 tw-text-4">Behavior Therapy</span>
+                                    <span class="fw-medium text-neutral-950 tw-text-4">Education Support & IQ Development</span>
                                 </li>
                                 <li class="d-flex align-items-center tw-gap-3">
                                     <span class="tw-w-8 tw-h-8 bg-main-two-600 text-white rounded-circle d-flex align-items-center justify-content-center tw-text-xl"><i class="ph-bold ph-check"></i></span>
-                                    <span class="fw-medium text-neutral-900 tw-text-4">Speech Therapy</span>
+                                    <span class="fw-medium text-neutral-950 tw-text-4">Personality Training & Self Care</span>
+                                </li>
+                                <li class="d-flex align-items-center tw-gap-3">
+                                    <span class="tw-w-8 tw-h-8 bg-warning text-white rounded-circle d-flex align-items-center justify-content-center tw-text-xl"><i class="ph-bold ph-check"></i></span>
+                                    <span class="fw-medium text-neutral-950 tw-text-4">Teaching Good Touch & Bad Touch</span>
+                                </li>
+                                <li class="d-flex align-items-center tw-gap-3">
+                                    <span class="tw-w-8 tw-h-8 bg-info text-white rounded-circle d-flex align-items-center justify-content-center tw-text-xl"><i class="ph-bold ph-check"></i></span>
+                                    <span class="fw-medium text-neutral-950 tw-text-4">Counseling Sessions & Cognitive Therapy</span>
+                                </li>
+                                <li class="d-flex align-items-center tw-gap-3">
+                                    <span class="tw-w-8 tw-h-8 bg-success text-white rounded-circle d-flex align-items-center justify-content-center tw-text-xl"><i class="ph-bold ph-check"></i></span>
+                                    <span class="fw-medium text-neutral-950 tw-text-4">Improving Communication Skills</span>
+                                </li>
+                                <li class="d-flex align-items-center tw-gap-3">
+                                    <span class="tw-w-8 tw-h-8 bg-main-two-600 text-white rounded-circle d-flex align-items-center justify-content-center tw-text-xl"><i class="ph-bold ph-check"></i></span>
+                                    <span class="fw-medium text-neutral-950 tw-text-4">Brain Gym activities</span>
+                                </li>
+                            </ul>
+                            
+                            <h4 class="fw-bold text-neutral-950 h6 tw-mb-4 tw-mt-8">Who We Support</h4>
+                            <ul class="d-flex flex-column tw-gap-3">
+                                <li class="d-flex align-items-center tw-gap-3">
+                                    <span class="tw-w-8 tw-h-8 bg-main-600 text-white rounded-circle d-flex align-items-center justify-content-center tw-text-xl"><i class="ph-bold ph-users"></i></span>
+                                    <span class="fw-medium text-neutral-950 tw-text-4">AST (Autism Spectrum Therapy)</span>
+                                </li>
+                                <li class="d-flex align-items-center tw-gap-3">
+                                    <span class="tw-w-8 tw-h-8 bg-pink-600 text-white rounded-circle d-flex align-items-center justify-content-center tw-text-xl"><i class="ph-bold ph-users"></i></span>
+                                    <span class="fw-medium text-neutral-950 tw-text-4">School Refusal</span>
                                 </li>
                             </ul>
                         </div>
@@ -567,9 +773,9 @@
         <div class="row gy-5">
             <div class="col-xl-4 col-lg-6 col-md-6" data-aos="fade-up" data-aos-duration="600" data-aos-delay="100">
                 <div class="animation-item">
-                    <span class="overflow-hidden tw-rounded-20-px tw-rounded-top-20-px w-100">
+                    <a href="blog-details-1.html" class="overflow-hidden d-block tw-rounded-20-px tw-rounded-top-20-px w-100">
                         <img src="assets/images/thumbs/blog-img1.png" alt="img" class="tw-duration-300 course-item__img bg-img">
-                    </span>
+                    </a>
                     <div class="tw-p-7 bg-white tw-rounded-bottom-20-px">
                         <div class="d-flex align-items-center tw-gap-5 flex-wrap tw-mb-4">
                             <span class="fw-medium tw-text-4 text-white bg-main-600 tw-py-1 tw-px-5 rounded-pill">
@@ -583,21 +789,13 @@
                             </div>
                         </div>
                         <h2 class="h5">
-                            <a href="blog-details.html" class="fw-bold text-neutral-950 tw-mb-8">
+                            <a href="blog-details-1.html" class="fw-bold text-neutral-950 tw-mb-8">
                                 How to Prepare Your Child for Their First Day
                             </a>
                         </h2>
-                        <div class="d-flex align-items-center tw-gap-3 justify-content-between flex-wrap">
-                            <div class="d-flex align-items-center tw-gap-2">
-                                <span>
-                                    <img src="assets/images/thumbs/blog-img4.png" alt="img">
-                                </span>
-                                <div>
-                                    <span class="fw-bold tw-text-4 text-neutral-950 d-block">John Smith</span>
-                                    <span class="fw-normal tw-text-305 text-neutral-500">Blog Writer</span>
-                                </div>
-                            </div>
-                            <a href="blog-details.html" class="tw-w-10 tw-h-10 border-main-600 border rounded-circle d-flex align-items-center justify-content-center text-main-600 tw-text-405 hover-bg-main-600 hover-text-white tw-duration-300">
+                        <div class="d-flex align-items-center tw-gap-3 justify-content-end flex-wrap">
+                            
+                            <a href="blog-details-1.html" class="tw-w-10 tw-h-10 border-main-600 border rounded-circle d-flex align-items-center justify-content-center text-main-600 tw-text-405 hover-bg-main-600 hover-text-white tw-duration-300">
                                 <i class="ph-bold ph-arrow-right"></i>
                             </a>
                         </div>
@@ -606,9 +804,9 @@
             </div>
             <div class="col-xl-4 col-lg-6 col-md-6" data-aos="fade-up" data-aos-duration="600" data-aos-delay="200">
                 <div class="animation-item">
-                    <span class="overflow-hidden tw-rounded-20-px tw-rounded-top-20-px w-100">
+                    <a href="blog-details-2.html" class="overflow-hidden d-block tw-rounded-20-px tw-rounded-top-20-px w-100">
                         <img src="assets/images/thumbs/blog-img2.png" alt="img" class="tw-duration-300 course-item__img bg-img">
-                    </span>
+                    </a>
                     <div class="tw-p-7 bg-white tw-rounded-bottom-20-px">
                         <div class="d-flex align-items-center tw-gap-5 flex-wrap tw-mb-4">
                             <span class="fw-medium tw-text-4 text-white bg-main-two-600 tw-py-1 tw-px-5 rounded-pill">
@@ -622,21 +820,13 @@
                             </div>
                         </div>
                         <h2 class="h5">
-                            <a href="blog-details.html" class="fw-bold text-neutral-950 tw-mb-8">
+                            <a href="blog-details-2.html" class="fw-bold text-neutral-950 tw-mb-8">
                                 Discovering the Joys of Child Kindergarten...
                             </a>
                         </h2>
-                        <div class="d-flex align-items-center tw-gap-3 justify-content-between flex-wrap">
-                            <div class="d-flex align-items-center tw-gap-2">
-                                <span>
-                                    <img src="assets/images/thumbs/blog-img4.png" alt="img">
-                                </span>
-                                <div>
-                                    <span class="fw-bold tw-text-4 text-neutral-950 d-block">John Smith</span>
-                                    <span class="fw-normal tw-text-305 text-neutral-500">Blog Writer</span>
-                                </div>
-                            </div>
-                            <a href="blog-details.html" class="tw-w-10 tw-h-10 border-main-600 border rounded-circle d-flex align-items-center justify-content-center text-main-600 tw-text-405 hover-bg-main-600 hover-text-white tw-duration-300">
+                        <div class="d-flex align-items-center tw-gap-3 justify-content-end flex-wrap">
+                            
+                            <a href="blog-details-2.html" class="tw-w-10 tw-h-10 border-main-600 border rounded-circle d-flex align-items-center justify-content-center text-main-600 tw-text-405 hover-bg-main-600 hover-text-white tw-duration-300">
                                 <i class="ph-bold ph-arrow-right"></i>
                             </a>
                         </div>
@@ -645,9 +835,9 @@
             </div>
             <div class="col-xl-4 col-lg-6 col-md-6" data-aos="fade-up" data-aos-duration="600" data-aos-delay="300">
                 <div class="animation-item">
-                    <span class="overflow-hidden tw-rounded-20-px tw-rounded-top-20-px w-100">
+                    <a href="blog-details-3.html" class="overflow-hidden d-block tw-rounded-20-px tw-rounded-top-20-px w-100">
                         <img src="assets/images/thumbs/blog-img3.png" alt="img" class="tw-duration-300 course-item__img bg-img">
-                    </span>
+                    </a>
                     <div class="tw-p-7 bg-white tw-rounded-bottom-20-px">
                         <div class="d-flex align-items-center tw-gap-5 flex-wrap tw-mb-4">
                             <span class="fw-medium tw-text-4 text-white bg-main-600 tw-py-1 tw-px-5 rounded-pill">
@@ -661,21 +851,13 @@
                             </div>
                         </div>
                         <h2 class="h5">
-                            <a href="blog-details.html" class="fw-bold text-neutral-950 tw-mb-8">
+                            <a href="blog-details-3.html" class="fw-bold text-neutral-950 tw-mb-8">
                                 Creating Friendships and Memories in Schoo...
                             </a>
                         </h2>
-                        <div class="d-flex align-items-center tw-gap-3 justify-content-between flex-wrap">
-                            <div class="d-flex align-items-center tw-gap-2">
-                                <span>
-                                    <img src="assets/images/thumbs/blog-img4.png" alt="img">
-                                </span>
-                                <div>
-                                    <span class="fw-bold tw-text-4 text-neutral-950 d-block">John Smith</span>
-                                    <span class="fw-normal tw-text-305 text-neutral-500">Blog Writer</span>
-                                </div>
-                            </div>
-                            <a href="blog-details.html" class="tw-w-10 tw-h-10 border-main-600 border rounded-circle d-flex align-items-center justify-content-center text-main-600 tw-text-405 hover-bg-main-600 hover-text-white tw-duration-300">
+                        <div class="d-flex align-items-center tw-gap-3 justify-content-end flex-wrap">
+                            
+                            <a href="blog-details-3.html" class="tw-w-10 tw-h-10 border-main-600 border rounded-circle d-flex align-items-center justify-content-center text-main-600 tw-text-405 hover-bg-main-600 hover-text-white tw-duration-300">
                                 <i class="ph-bold ph-arrow-right"></i>
                             </a>
                         </div>
@@ -837,7 +1019,7 @@
                       Location
                     </span>
                     <span class="fw-medium text-neutral-950 h6 tw-mb-0">
-                      No: 5, State Bank Officers Colony, Near Ellis Nagar, Madurai, Tamil Nadu 625016
+                       T146, Near Ellis Nagar, Madurai, Tamil Nadu 625016
                     </span>
                   </div>
                 </div>
